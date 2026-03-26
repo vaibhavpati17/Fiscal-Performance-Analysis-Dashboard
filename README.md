@@ -1,6 +1,6 @@
 # Fiscal-Performance-Analysis-Dashboard
 
-![Dashboard Preview](WhatsApp Image 2026-03-25 at 22.33.09.jpeg)
+![Dashboard Preview](image.jpeg)
 
 ## 📌 Overview
 The Financial Budget vs Actual Dashboard is an interactive data visualization project built to compare planned budgets with actual spending across different departments, categories, and payment methods.
